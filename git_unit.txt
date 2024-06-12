@@ -1,0 +1,23 @@
+git init - inicia o repositório
+
+git add <arquivo> - Adiciona o arquivo
+
+git status - visualiza o aspecto do repositório
+
+git commit -m "mensagem" - dá a mensagem ao arquivo selecionado
+
+git-version - A versão do Git
+
+git log - você ver o histórico dos commits
+
+git config --global user.email "email"
+git config --global user.name "name"
+
+git push - adiciona os commits!!
+
+git pull - adiciona arquivos!!
+
+
+
+
+
